@@ -1,5 +1,7 @@
 # Influence maximisation on networks
 
+GITHUB: https://github.com/GDTNguyen/socialnetworks
+
 The following picture shows the JupyterLab configuration in action. **Use** it with three simple steps:
 
 1. Download and run docker 'https://www.docker.com/products/docker-desktop'
