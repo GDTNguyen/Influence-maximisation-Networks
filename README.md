@@ -1,4 +1,4 @@
-# socialnetworks
+# Influence maximisation on networks
 
 The following picture shows the JupyterLab configuration in action. **Use** it with three simple steps:
 
