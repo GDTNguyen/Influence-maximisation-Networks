@@ -1,6 +1,6 @@
 # Influence maximisation on networks
 
-GITHUB: https://github.com/GDTNguyen/socialnetworks
+GITHUB: https://github.com/GDTNguyen/Influence-maximisation-Networks
 
 The following picture shows the JupyterLab configuration in action. **Use** it with three simple steps:
 
