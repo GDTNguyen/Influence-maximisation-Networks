@@ -2,7 +2,7 @@
 
 GITHUB: https://github.com/GDTNguyen/Influence-maximisation-Networks
 
-OS Requirements:
+OS Requirement:
 macOS must be version 10.13 or newer
 Windows 10 64-bit: Pro, Enterprise, or Education (Build 15063 or later).
 Ubuntu: CentOS, Debian, Fedora, Raspbian, Ubuntu
