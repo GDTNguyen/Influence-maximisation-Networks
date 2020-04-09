@@ -5,7 +5,7 @@ GITHUB: https://github.com/GDTNguyen/Influence-maximisation-Networks
 OS Requirement:\
 macOS must be version 10.13 or newer\
 Windows 10 64-bit: Pro, Enterprise, or Education (Build 15063 or later).\
-Ubuntu: CentOS, Debian, Fedora, Raspbian, Ubuntu\
+Ubuntu: CentOS, Debian, Fedora, Raspbian, Ubuntu
 
 The following picture shows the JupyterLab configuration in action. **Use** it with three simple steps:
 
